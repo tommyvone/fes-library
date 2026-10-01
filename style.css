@@ -110,3 +110,9 @@ h2 {
   margin-bottom: 10px;
   
 }
+
+.middle__content{
+  margin-top: 190px;
+  background-color: aqua;
+  padding: 50px;
+}
